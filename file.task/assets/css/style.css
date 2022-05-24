@@ -1,0 +1,26 @@
+.dropElm {
+  width: 70%;
+  height: 350px;
+  background-color: #aaa;
+  margin: 50px auto;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border-radius: 15px;
+  cursor: pointer;
+}
+.fa-arrow-up-from-bracket {
+  font-size: 50px;
+  color: white;
+}
+.fa-xmark {
+  color: red;
+  font-size: 20px;
+  cursor: pointer;
+}
+.dropElm input {
+  display: none;
+}
+table {
+  visibility: hidden;
+}
